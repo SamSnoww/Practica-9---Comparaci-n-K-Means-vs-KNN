@@ -3,7 +3,7 @@
 Este código realiza la implementación de dos algoritmos de aprendizaje automático: K-Means y K-Nearest Neighbors (KNN).
 Ambos algoritmos se aplican a un conjunto de datos relacionado con la predicción de la diabetes. Aquí tienes un resumen del desarrollo:
 
-#K-Means:
+# K-Means:
 1. **Preprocesamiento de datos:**
    - Se carga un conjunto de datos desde un archivo Excel.
    - Se eliminan las filas que contienen valores nulos en las columnas 'gender' y 'smoking_history'.
